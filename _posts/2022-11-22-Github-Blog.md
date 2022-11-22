@@ -1,6 +1,6 @@
 ---
 title : 1. Github Blog?
-date : 2022-11-22 16:35:00 +09:00
+date : 2022-11-22 21:34:00 +09:00
 categories : [Github, Blog]
 tags : [blog, first, git, github, vscode, notion] #소문자만 가능
 ---
