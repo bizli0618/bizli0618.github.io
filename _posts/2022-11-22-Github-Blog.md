@@ -27,13 +27,13 @@ tags : [blog, first, git, github, vscode, notion] #소문자만 가능
 
 ## 1. New Repository
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled.png)
 
 *[깃헙아이디.github.io](http://깃헙아이디.github.io) 로* 레포지터리를 만든다.
 
 이미 깃헙 레포를 만든 상황에서 다시 재현하려니까 보기 싫은 경고문이 뜬다. 하지만 여러분은 초록색 이름이 뜰 것이다.
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%201.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%201.png)
 
 Description 에는 아무 것도 안 적어도 된다.
 
@@ -43,49 +43,49 @@ README file도 만들어준다. 나머지는 건들지 않고, **Create reposito
 
 ‘
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%202.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%202.png)
 
 썰렁하네요!
 
 ## 2. Clone Repository
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%203.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%203.png)
 
 여기서부터가 참고했던 글과는 조금 달라지는 부분이다. 이미 깃허브 데스크톱이 있기 때문에, **Open with GitHub Desktop**을 선택한다. 
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%204.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%204.png)
 
 중간에 레포지토리를 clone하는 설정창이 뜰 수도 있다. 캡처를 까먹음..
 
 ## 3. index.html 생성
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%204.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%204.png)
 
 위의 그림에서 Open in Visual Studio Code로 들어간다. 물론, 터미널에서 적어도 된다! 그냥 새로운 방법으로 해보고 싶었다. 다음의 모든 과정은 Visual Studio Code가 이미 Github과 연동 되어 있을 때 가능하다.
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%205.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%205.png)
 
 “새 파일” 버튼을 누르고
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%206.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%206.png)
 
 다음과 같이 제목은 index.html, 내용은 “Hello World!”로 적어준다. ctrl+s로 저장을 해주면 다음과 같이 왼쪽 세번째 아이콘에 ①이 뜬다.
 
 ## 4. Commit, Push!
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%207.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%207.png)
 
 엥? 뭐야 바로 커밋해야지
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%208.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%208.png)
 
 적당히 커밋 메시지를 적고, 커밋버튼을 누른다.
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%209.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%209.png)
 
 변경 내용 동기화(push)를 한다. 
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%2010.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%2010.png)
 
 흠. 너무 오래 걸리는데… 간단한 파일 하나도 이리 오래 걸리니, 다시 깃헙 데스크톱으로 돌아가보자.
 
@@ -94,12 +94,12 @@ README file도 만들어준다. 나머지는 건들지 않고, **Create reposito
 
 </aside>
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%2011.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%2011.png)
 
 Push origin을 눌러준다. 위의 바에서 누르든 아래 파란색 버튼을 누르든 상관 없다.
 
 주소에 [https://깃헙아이디.github.io](https://깃헙아이디.github.io를) 를 치면?
 
-![Untitled](1%20Github%20Blog%20ba4a41a355a84573ae674399e432dac1/Untitled%2012.png)
+![Untitled](assets\2022-11-22-Github-Blog\Untitled%2012.png)
 
 새로고침이 필요할 수도 있다. 하지만! 됐다!
