@@ -33,7 +33,7 @@ tags : [blog, first, git, github, vscode, notion] #소문자만 가능
 
 이미 깃헙 레포를 만든 상황에서 다시 재현하려니까 보기 싫은 경고문이 뜬다. 하지만 여러분은 초록색 이름이 뜰 것이다.
 
-![Untitled](assets/2022-11-22-Github-Blog\Untitled%201.png)
+![Untitled](assets/2022-11-22-Github-Blog/Untitled%201.png)
 
 Description 에는 아무 것도 안 적어도 된다.
 
