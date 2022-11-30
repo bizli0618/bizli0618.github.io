@@ -13,7 +13,7 @@ tags : [blog, first, git, github, vscode, notion] #소문자만 가능
 
 네이버 등등의 블로그는 템플릿을 정하고 거기에 글을 쓰는 방식인데, 그거 말고 진짜 흰 바탕에서 내 블로그를 시작해보고 싶었고, 개발자들이 간지나는 깃헙 블로그가 있는게 부러워서 깃헙 블로그를 만들게 되었다!
 
-# Well, Let’s Start!
+# Well, Let's Start!
 
 ---
 
@@ -23,7 +23,7 @@ tags : [blog, first, git, github, vscode, notion] #소문자만 가능
 
 이 블로그에서는 터미널을 적극 사용하였지만 이 게시글에서는 github desktop을 활용해보자.
 
-개인적으로 시도해 본 방법이니 ‘왜 저렇게 하지?’ ‘뭐지?’ 라는 생각이 들어도 어쩔 수 없다.
+개인적으로 시도해 본 방법이니 '왜 저렇게 하지?' '뭐지?' 라는 생각이 들어도 어쩔 수 없다.
 
 ## 1. New Repository
 
@@ -41,7 +41,7 @@ Description 에는 아무 것도 안 적어도 된다.
 
 README file도 만들어준다. 나머지는 건들지 않고, **Create repository**를 누른다.
 
-‘
+'
 
 ![Untitled](../assets/2022-12-01-Github-Blog/Untitled%202.png)
 
@@ -65,11 +65,11 @@ README file도 만들어준다. 나머지는 건들지 않고, **Create reposito
 
 ![Untitled](../assets/2022-12-01-Github-Blog/Untitled%205.png)
 
-“새 파일” 버튼을 누르고
+"새 파일" 버튼을 누르고
 
 ![Untitled](../assets/2022-12-01-Github-Blog/Untitled%206.png)
 
-다음과 같이 제목은 index.html, 내용은 “Hello World!”로 적어준다. ctrl+s로 저장을 해주면 다음과 같이 왼쪽 세번째 아이콘에 ①이 뜬다.
+다음과 같이 제목은 index.html, 내용은 "Hello World!"로 적어준다. ctrl+s로 저장을 해주면 다음과 같이 왼쪽 세번째 아이콘에 ①이 뜬다.
 
 ## 4. Commit, Push!
 
